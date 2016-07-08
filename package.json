@@ -1,7 +1,7 @@
 {
   "name": "newline-after",
   "main": "./lib/newline-after",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Quick and easy newlines in Atom",
   "keywords": [
     "newline",
