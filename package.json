@@ -1,0 +1,20 @@
+{
+  "name": "newline-after",
+  "main": "./lib/newline-after",
+  "version": "0.0.1",
+  "description": "Quick and easy newlines in Atom",
+  "keywords": [
+    "newline",
+    "linebreak"
+  ],
+  "activationCommands": {
+    "atom-workspace": "newline-after:insert-newline"
+  },
+  "repository": "https://github.com/redbassett/newline-after",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
